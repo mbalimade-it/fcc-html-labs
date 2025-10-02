@@ -1,6 +1,6 @@
 # Recipe Page
 
-In this workshop I applied working with basic html elements such as:
+In this lab I applied working with basic html elements such as:
 
 - Headings
 - Paragraphs
@@ -10,7 +10,7 @@ In this workshop I applied working with basic html elements such as:
 
 ## Objective
 
-The goal of this workshop was to get hands-on practice with foundational HTML elements and understand how to structure a simple webpage.
+The goal of this lab was to get hands-on practice with foundational HTML elements and understand how to structure a simple webpage.
 
 ## Notes
 
