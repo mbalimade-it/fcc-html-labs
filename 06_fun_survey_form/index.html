@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>🤭The Office Survey</title>
+  </head>
+
+  <body>
+    <header>
+      <h1 id="title">🤭The Office Survey</h1>
+      <p id="description">
+        This is a fun survey to collect your info, but the Dunder Mifflin way😉
+      </p>
+    </header>
+    <form id="survey-form">
+      <div>
+        <label id="name-label">
+          What’s your name? Or should we just call you
+          <em>"Assistant (to the) Regional Manager"?</em>
+        </label>
+        <input
+          required
+          id="name"
+          type="text"
+          placeholder="enter your name here"
+        />
+      </div>
+      <br />
+      <div>
+        <label id="email-label">
+          Where should we send your official Dundie Award?
+        </label>
+        <input
+          required
+          type="email"
+          id="email"
+          placeholder="enter your email here"
+        />
+      </div>
+      <br />
+      <div>
+        <label id="number-label">
+          How old were you when you first realized Kevin's chili moment is art?
+        </label>
+        <input
+          id="number"
+          type="number"
+          min="10"
+          max="101"
+          placeholder="enter age here"
+        />
+      </div>
+      <br />
+      <div>
+        <label>
+          Which Office character are you most like on a Monday morning?
+        </label>
+        <select id="dropdown">
+          <option>Jim (chill but sarcastic)</option>
+          <option>Pam (quiet MVP)</option>
+          <option>Dwight (overachieving beet farmer)</option>
+          <option>Michael (chaotic good)</option>
+          <option>Stanley (waiting for 5pm)</option>
+          <option>Creed (??? just Creed)</option>
+          <option>Angela (silently judging everyone)</option>
+        </select>
+      </div>
+      <br />
+      <div>
+        <legend>Would you survive working at Dunder Mifflin Scranton?</legend>
+
+        <input type="radio" name="survive" id="yes" value="Absolutely" />
+        <label for="yes">Absolutely</label>
+
+        <input
+          type="radio"
+          name="survive"
+          id="maybe"
+          value="Maybe if I bring donuts"
+        />
+        <label for="maybe">Maybe if I bring donuts</label>
+
+        <input
+          type="radio"
+          name="survive"
+          id="nope"
+          value="Not without HR violations"
+        />
+        <label for="nope">Not without HR violations</label>
+      </div>
+      <div>
+        <br />
+
+        <legend>What’s your all-time favorite Office moment?</legend>
+        <select>
+          <option>Jim’s pranks on Dwight</option>
+          <option>Kevin’s chili disaster</option>
+          <option>The fire drill (aka "SAVE BANDIT!")</option>
+          <option>Michael’s “Threat Level Midnight”</option>
+          <option>Dinner Party episode</option>
+          <option>The entire Scott’s Tots situation 😬</option>
+        </select>
+      </div>
+      <br />
+
+      <legend>Which of these apply to you?</legend>
+      <label>
+        <input type="checkbox" name="traits" value="TeamPlayer" />
+        I'm a team player
+      </label>
+      <br />
+      <label>
+        <input type="checkbox" name="traits" value="LovesPranks" />
+        I love a good prank
+      </label>
+
+      <br /><br />
+
+      <label>Any comments or suggestions?</label>
+      <br />
+      <textarea placeholder="Enter your comment here ..."></textarea>
+
+      <br /><br />
+      <button id="submit" type="submit">Submit</button>
+    </form>
+  </body>
+</html>

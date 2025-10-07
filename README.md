@@ -35,3 +35,11 @@ _iframe_
 ### [05. Event Hub](https://mbalimade-it.github.io/fcc-html-labs/05_event_hub)
 
 _semantic hmtl elements, nav, header, section, article_
+
+### [06. Fun Survey Form](https://mbalimade-it.github.io/fcc-html-labs/06_fun_survey_form)
+
+_html forms_
+
+### [07. Book Catalog Table](https://mbalimade-it.github.io/fcc-html-labs/07_book_catalog_table)
+
+_html tables_
