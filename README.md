@@ -31,3 +31,7 @@ _video element, audio element, source element_
 ### [04. Video Compilation Page](https://mbalimade-it.github.io/fcc-html-labs/04_video_compilation_page)
 
 _iframe_
+
+### [05. Event Hub](https://mbalimade-it.github.io/fcc-html-labs/05_event_hub)
+
+_semantic hmtl elements, nav, header, section, article_
