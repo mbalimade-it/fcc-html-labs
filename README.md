@@ -43,3 +43,15 @@ _html forms_
 ### [07. Book Catalog Table](https://mbalimade-it.github.io/fcc-html-labs/07_book_catalog_table)
 
 _html tables_
+
+### [08. Checkout Page](https://mbalimade-it.github.io/fcc-html-labs/08_checkout_page)
+
+_accessibility_
+
+### [09. Movie Review Page](https://mbalimade-it.github.io/fcc-html-labs/09_movie_review_page)
+
+_aria-hidden_
+
+### [10. Media Player](https://mbalimade-it.github.io/fcc-html-labs/10_media_player)
+
+_aria-label_
